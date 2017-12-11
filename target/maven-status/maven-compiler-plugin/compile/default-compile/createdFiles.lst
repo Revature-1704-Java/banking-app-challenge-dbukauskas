@@ -1,0 +1,5 @@
+com\bankapp\Bank.class
+com\bankapp\CommandWords.class
+com\bankapp\Command.class
+com\bankapp\Parser.class
+com\bankapp\AccountManage.class
